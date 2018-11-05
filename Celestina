@@ -1,0 +1,48 @@
+{
+  "projectId": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws",
+  "htmlFiles": [
+    {
+      "fileId": "1MCY2hc0dNDyX71ErNl5y-6p4aYH_cxr0",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws"
+    },
+    {
+      "fileId": "1TRvNPp74Kb9dTcqujH1OXoF7HzJGKwOL",
+      "contentType": "text/html",
+      "name": "autor.html",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws",
+      "description": "This HTML file has been created with Editey"
+    },
+    {
+      "fileId": "11yE_FXab4VYCMpO7rqWozZa6k4lDWnEM",
+      "contentType": "text/html",
+      "name": "personajes.html",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws",
+      "description": "This HTML file has been created with Editey"
+    },
+    {
+      "fileId": "11qvHkwKDwhTEYhv-nzDghrsknAPCE5KP",
+      "contentType": "text/html",
+      "name": "yo.html",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws",
+      "description": "This HTML file has been created with Editey"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "1qhpJsu_prL_Kpi86Gqbt5dE3l1zVzW5r",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "1WFoSIP1LNCMcUQ3iH4e34l8Fr2bWa6uV",
+      "contentType": "text/javascript",
+      "name": "code.js",
+      "path": "1EIqLmKVqG4MoL4zFiRKMLftb3SOeBDws"
+    }
+  ]
+}

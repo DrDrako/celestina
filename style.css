@@ -1,0 +1,38 @@
+h1 {
+    color: green;
+}
+a {
+    font-size: 20px;
+}
+.personaje {
+  height: 200px;
+  clear: left;
+}
+.info-personaje{
+    float: right;
+    width: 80%;
+    overflow: scroll;
+    height: 100%;
+}
+.img-personaje{
+    width:20%;
+    height:100%;
+    background-color: black;
+    animation-name: mov;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    position: relative;
+}
+@keyframes mov {
+    0% {top: 0px;}
+    50% {top: 30px;}
+    100% {top: -1px;}
+}
+.celestina{
+    animation-name: mov;
+    animation-duration: 2s;
+    animation-iteration-count: 3;
+}
+nav{
+    text-align: center;
+}
